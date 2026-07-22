@@ -25,4 +25,4 @@ git commit
     ↓
 git log (git log --oneline, git log --oneline -원하는 숫자)
     ↓
-git push (추가: git remote add origin [원격 URL] , 확인: git remote -v)
+git push (추가: git remote add origin [원격 URL] , 확인: git remote -v, 전송: git push origin master)
