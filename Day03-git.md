@@ -9,3 +9,18 @@ git init 설치 코드 : winget install --id Git.Git -e --source winget
 - Commits: `git commit`으로 확정한 버전 기록이 저장되는 공간.
 - git commit -m "버전" : 버전 관리
 - git status : 저장소의 파일 상태를 확인함.
+
+## Git 작업 순서
+
+```text
+폴더 생성
+    ↓
+git init
+    ↓
+Git이 관리 시작
+    ↓
+git add
+    ↓
+git commit
+    ↓
+git push
