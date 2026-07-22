@@ -23,4 +23,6 @@ git add
     ↓
 git commit
     ↓
-git push
+git log (git log --oneline, git log --oneline -원하는 숫자)
+    ↓
+git push (git remote add origin [원격 URL])
